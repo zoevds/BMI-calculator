@@ -67,9 +67,9 @@ h2 {
 @media only screen and (max-width: 510px) {
   #height,
   #weight {
-    margin-left: 70px;
+    margin-left: 17px;
   }
   #btn {
-    margin-left: 70px;
+    margin-left: 10px;
   }
 }
